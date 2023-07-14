@@ -9,11 +9,11 @@
 嗯，先把 flag 立在这了
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELBUND)](https://github.com/ELBUND/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELBUND&layout=compact)](https://github.com/ELBUND/github-readme-stats)
 
 
 ![ELBUND's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELBUND&show_icons=true&theme=tokyonight)
-
 
 ### 只是列一下，方便随时提醒自己
 
